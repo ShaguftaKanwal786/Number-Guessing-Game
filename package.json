@@ -1,0 +1,19 @@
+{
+  "name": "shaguftakanwal-number-guessing-game",
+  "version": "1.0.1",
+  "description": "In this project i have made a number guessing game formula.. computer will generate a random number and you guess what computer generate. if you guess right number you will win",
+  "main": "index.js",
+  "type":"module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shagufta Kanwal",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
